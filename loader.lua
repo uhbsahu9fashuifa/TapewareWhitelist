@@ -1,4 +1,4 @@
-ocal Players = game:GetService("Players")
+local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local yes = Players.LocalPlayer.Name
 local ChatTag = loadstring(game:HttpGet("https://raw.githubusercontent.com/uhbsahu9fashuifa/TapewareWhitelist/main/chattag.lua"))()
